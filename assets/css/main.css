@@ -2768,7 +2768,7 @@
 		}
 
 			#footer footer h1, #footer footer h2, #footer footer h3, #footer footer h4, #footer footer h5, #footer footer h6, #footer footer strong, #footer footer b {
-				color: #ffffff;
+				color: #D3D3D3;
 			}
 
 			#footer footer a {
@@ -2776,7 +2776,7 @@
 			}
 
 				#footer footer a:hover {
-					color: #ffffff !important;
+					color: #ababab !important;
 				}
 
 			#footer footer .copyright {
